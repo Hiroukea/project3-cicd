@@ -1,0 +1,5 @@
+.aws-sam/
+release-*.zip
+samconfig.toml
+node_modules/
+.env
